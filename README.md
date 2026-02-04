@@ -1,15 +1,15 @@
-#📝SIMPLE TO-DO LIST(Python)
+#📝SIMPLE TO-DO LIST(Python):
 A beginner friendly command-line to-do list application built using python
 this mini project helps users manage daily tasks by adding ,viewing,and removing tasks easily.
 
 ##🚀Features:
-*Add new tasks
-*View all tasks
-*Remove completed tasks
-*Menu-driven CLI program
+~Add new tasks
+~View all tasks
+~Remove completed tasks
+~Menu-driven CLI program
 
 #🛠Technologies used:
-*python 3
+~python 3
 
 #🧠Concepts used:
 *Lists
@@ -42,7 +42,7 @@ Choice: 2
 Your Tasks:
 1. Complete Python assignment
 
-#🔮 Future Improvements
+#🔮 Future Improvements:
 Store tasks using file handling
 Add task completion status
 Convert to GUI using Tkinter
